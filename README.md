@@ -11,4 +11,4 @@ ionic start myApp tabs
 
 Good luck!!
 
-I'm show it at https://market.ionic.io/plugins/ionic-side-menu-transform-3d . let bonus if it's are better, thanks !! http://secure.t2hcoder.io
+I'm show it at https://market.ionic.io/plugins/ionic-side-menu-transform-3d . 
